@@ -52,7 +52,7 @@ public class MainScreen extends JFrame {
         panel.setLayout(null);
 
         JLabel lblEnterAWord = new JLabel("Enter a word/digits");
-        lblEnterAWord.setBounds(6, 6, 207, 16);
+        lblEnterAWord.setBounds(6, 6, 209, 16);
         panel.add(lblEnterAWord);
 
         textFieldWord = new JTextField();
